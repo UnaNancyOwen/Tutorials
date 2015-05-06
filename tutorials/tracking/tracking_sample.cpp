@@ -199,7 +199,8 @@ main (int argc, char** argv)
 
   //read pcd file
   target_cloud.reset(new Cloud());
-  if(pcl::io::loadPCDFile (argv[2], *target_cloud) == -1){
+  //if(pcl::io::loadPCDFile (argv[2], *target_cloud) == -1){
+  if(pcl::io::loadPCDFile (argv[1], *target_cloud) == -1){
     std::cout << "pcd file not found" << std::endl;
     exit(-1);
   }
