@@ -11,7 +11,7 @@ Tutorials
 
 Test
 ----
-It doesn't guarantee the operation.  
+This tutorials doesn't guarantee the operation.  
 * [Check List](tutorials.txt)  
 
 Environment
