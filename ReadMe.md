@@ -5,8 +5,8 @@ Point Cloud Library Tutorials
 
 Visual Studio Projects for PCL Tutorials.  
 
-Tutorials
----------
+Original Tutorials
+------------------
 * [Tutorials](http://pointclouds.org/documentation/tutorials/)  
 * [Source Codes](https://github.com/PointCloudLibrary/pcl/tree/master/doc/tutorials/content/sources)  
 
